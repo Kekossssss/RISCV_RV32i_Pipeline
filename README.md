@@ -5,3 +5,5 @@ The repository is organized as follow :
    - In the "hdl_src" folder, you will find all of the ".sv" files containing the modules that compose the architecture
    - In the "testbench" folder, you will find all of the ".sv" files containing testbench made to stress and test almost all modules composing the architecture
    - In the "firmware" folder, you will find a bunch of assembly programms made to stress test the architecture, as well as their compiled version and some data_memory files to use with each one
+
+My design report is currently only available in french, as it is my main language. I will work on an english version when I get the time, but I may try to get an AI translated version if I manage to get something acceptable.
